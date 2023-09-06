@@ -1,2 +1,1 @@
-{let x="cat";}
-console.log (x);
+console.log("What is your favorite color?");
