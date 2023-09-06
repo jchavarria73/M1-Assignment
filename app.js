@@ -1,2 +1,2 @@
-let x="cat";
+{let x="cat";}
 console.log (x);
